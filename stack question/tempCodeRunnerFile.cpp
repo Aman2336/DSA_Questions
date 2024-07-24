@@ -1,0 +1,1 @@
+ cout << maxarea(arr, 6);
